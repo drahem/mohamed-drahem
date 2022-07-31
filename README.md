@@ -71,3 +71,18 @@ https://play.google.com/store/apps/details?id=com.monefy.app.lite
 8. validate that pagination is working 
 9. validate search status (time and number of results)
 10. search using multiple inputs with different criteria using a data provider ex.(very long input, special chars, meaningless keywords, numbers only)
+
+### automation project details: 
+   - java
+   - maven
+   - selenium 4
+   - testNG
+   - using POM design pattern 
+   - chrome driver version 103
+   ### to run test cases:
+   - clone repo
+   - open project using IDE as a maven project
+   - run POM.xml file to install dependencies 
+   - run the file with name googleSearchTestSuite.xml
+
+
